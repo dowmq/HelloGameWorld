@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Time">
+      <UniqueIdentifier>{94a78f38-8a6f-4233-9c1f-3e6ad206701c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{73d4d428-2b18-4882-8d85-22123a6f867f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DrawObject">
+      <UniqueIdentifier>{3ab60468-e130-4afd-8717-a5208f811c14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DrawObject\Sprite">
+      <UniqueIdentifier>{ff0ab823-6905-4066-b5b9-66ba190e5c32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DrawObject\Sprite\Factory">
+      <UniqueIdentifier>{d214e539-e197-40d4-9451-e201b6fb97c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{8e37de6c-3017-4cda-b7c9-e03ecbe7b9db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility\TextParser">
+      <UniqueIdentifier>{b49d0a12-ca47-45b8-b5cb-ec4f3b551c4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DrawObject\Bitmap">
+      <UniqueIdentifier>{2f1a3fd9-ff66-4ea2-a966-b72d106213ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handler">
+      <UniqueIdentifier>{36ddede9-760b-4f48-9f31-4e7092c1ae33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handler\Input">
+      <UniqueIdentifier>{95fa7efa-f69c-4b90-9538-d013bb3bdb8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handler\Input\CActionMap">
+      <UniqueIdentifier>{dd77bb18-5ba5-42e8-a7c0-f800f2ca0808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handler\UI">
+      <UniqueIdentifier>{dd17fc85-d01e-4a23-9951-20593418d4dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField">
+      <UniqueIdentifier>{4a2df27e-a296-4a72-b10d-9b0322f95485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CPlayerCharacter">
+      <UniqueIdentifier>{d46fa3c2-1910-4c95-bca3-fbf93d6b509c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CMonster">
+      <UniqueIdentifier>{eb09d4a0-d3ea-4d44-8787-c696e89982be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CBackground">
+      <UniqueIdentifier>{db28488e-abe1-4c59-a714-75465e58a0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CTile">
+      <UniqueIdentifier>{b544f7a8-7f32-456a-9015-358280ee4357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CItem">
+      <UniqueIdentifier>{7cd58c28-11c8-4369-ba4f-4eeda03a8c5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CArea">
+      <UniqueIdentifier>{2894975c-fd12-47f5-8839-c56213954566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CNPC">
+      <UniqueIdentifier>{e88e2aa7-7634-465a-ac69-82aac4b22770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI">
+      <UniqueIdentifier>{b7652c9d-e1e6-499f-8b52-2baaf0aefbe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component">
+      <UniqueIdentifier>{82c989a1-ff5f-45cc-90c9-5dd43d3cc335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIString">
+      <UniqueIdentifier>{add8c370-f191-41b1-95bc-bf90ef0f60b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUICharacter">
+      <UniqueIdentifier>{6564bde0-1cfe-4bc2-90f7-02e7c8773b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUICharacter\CUICharacterInfo">
+      <UniqueIdentifier>{44eee4d3-b2a6-4868-adba-dd0d17f94d17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUICharacter\CHPGauge">
+      <UniqueIdentifier>{123f4747-119e-40aa-a68d-8f28548df517}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUICharacter\CEXPGauge">
+      <UniqueIdentifier>{ee4697a1-d903-41fc-8a1f-65575a61f0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUICharacter\CUIChatLog">
+      <UniqueIdentifier>{506a7b9e-8ce0-41c7-af5e-456916a947eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIItem">
+      <UniqueIdentifier>{d6c84848-ad93-4a58-809b-6835ce75f5c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIInventory">
+      <UniqueIdentifier>{4e69a5d0-275f-4af5-a55d-82f1a0bbbd4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIInventory\Slot">
+      <UniqueIdentifier>{e5a2edb1-86cb-4902-9275-3044d5622101}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUINPC">
+      <UniqueIdentifier>{bb65de06-96ba-4e4c-97ef-14691bdf9b97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Leaf">
+      <UniqueIdentifier>{6fa24599-7e08-4d17-8cb1-0961d08f4e32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Leaf\char">
+      <UniqueIdentifier>{da644ca1-4ce1-4504-bb7c-555cb7063ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Leaf\Image">
+      <UniqueIdentifier>{f9da4fca-4f34-428b-97a9-9e27dfd79e72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\CUIWindow">
+      <UniqueIdentifier>{eeab0d22-8dda-481a-9916-33ddd09ecaa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\CUIWindow\CUIItemInfo">
+      <UniqueIdentifier>{da1b61d6-50fe-4e92-95d4-36dafa033e8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\CUIWindow\CUINPCTalk">
+      <UniqueIdentifier>{3069e96c-ee05-4734-9d46-b2abf674eefc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIInventory\SlotRightClickList">
+      <UniqueIdentifier>{f239fc4c-b861-4db3-96ee-68524283d2d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\IndexStage">
+      <UniqueIdentifier>{796efa78-21eb-417c-85a6-df80073e69c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIIndexStage">
+      <UniqueIdentifier>{8436dd91-0e16-4dbf-b775-532d884b748c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage\GameStage">
+      <UniqueIdentifier>{026b6781-fac4-42e2-ad44-7a5d5feade3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIGameStage">
+      <UniqueIdentifier>{b3c1ed26-3dcc-4578-b36a-e684ae98c9b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider">
+      <UniqueIdentifier>{cc7ee7be-a49c-4056-a487-a5064b8c87bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\Item">
+      <UniqueIdentifier>{1f731b56-d0ee-4ae4-8d05-f91fcfeda5f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\Sprite">
+      <UniqueIdentifier>{5cfd05cd-bd17-4561-a79c-08a8096c0460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CFieldFactory">
+      <UniqueIdentifier>{13aed04c-c89d-4d17-8b18-b8820a168320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIFieldInfo">
+      <UniqueIdentifier>{c8719c2d-49e4-453d-95be-4467c3f7581e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CQuest">
+      <UniqueIdentifier>{57093996-8f77-4ab3-bb24-25a6f59954aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\NPC">
+      <UniqueIdentifier>{987d9c5e-1dfd-439a-a975-82518f9a59e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility\ScriptParser">
+      <UniqueIdentifier>{56978ff4-aa83-4950-85ad-8943cd4ff917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\NPCTalkScript">
+      <UniqueIdentifier>{5a41e26c-cbcc-4552-ad2a-541cc78553b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIBackground">
+      <UniqueIdentifier>{5f48358e-8f32-480c-bb83-9f5897831c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\Quest">
+      <UniqueIdentifier>{3a29b4d1-77d1-4054-b123-619c418735b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUINPCQuestStatus">
+      <UniqueIdentifier>{970e3fa2-f3ea-43f7-a096-f38a37e53331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\String">
+      <UniqueIdentifier>{b5130197-1202-4a2b-9d70-f94b73f43d0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\CUIWindow\CUIbutton">
+      <UniqueIdentifier>{b7b8af1f-4db8-43b4-a94f-b7fd60f4878f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\Component\CUIQuestInfo">
+      <UniqueIdentifier>{bb1f51fe-cedc-4894-88c4-c7cb5bab0ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataProvider\Sound">
+      <UniqueIdentifier>{682930e6-0b40-4978-a4f2-c6e55ab8e795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handler\Sound">
+      <UniqueIdentifier>{e97e4180-86d4-493f-97c4-037f3b43f81c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CPortal">
+      <UniqueIdentifier>{db6cde03-05d2-4b99-955e-cc0c3e8fd4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUI\CUIWindow\CUINoticeWindow">
+      <UniqueIdentifier>{1688e0de-6677-48db-8abc-a1f13469b5e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CPlayerCharacter\CPlayerDecorateEffect">
+      <UniqueIdentifier>{c79ac195-fbc7-4c16-8f2e-ca772cd6e87c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CField\CPlayerCharacter\CPlayerAttackObject">
+      <UniqueIdentifier>{20887dd2-2756-4adb-836f-9b240e525a73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="CWindow.cpp" />
+    <ClCompile Include="GameLoop.cpp" />
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>DrawObject\Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>DrawObject\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Handler\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerCharacter.cpp">
+      <Filter>CField\CPlayerCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>CField\CMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteFactory.cpp">
+      <Filter>DrawObject\Sprite\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterFactory.cpp">
+      <Filter>CField\CMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="CField.cpp">
+      <Filter>CField</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackground.cpp">
+      <Filter>CField\CBackground</Filter>
+    </ClCompile>
+    <ClCompile Include="TextFileParser.cpp">
+      <Filter>Utility\TextParser</Filter>
+    </ClCompile>
+    <ClCompile Include="CArea.cpp">
+      <Filter>CField\CArea</Filter>
+    </ClCompile>
+    <ClCompile Include="CTile.cpp">
+      <Filter>CField\CTile</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionMap.cpp">
+      <Filter>Handler\Input\CActionMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CHPGauge.cpp">
+      <Filter>CUI\Component\CUICharacter\CHPGauge</Filter>
+    </ClCompile>
+    <ClCompile Include="CEXPGauge.cpp">
+      <Filter>CUI\Component\CUICharacter\CEXPGauge</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIBackground.cpp">
+      <Filter>CUI\Component\CUIBackground</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIString.cpp">
+      <Filter>CUI\Component\CUIString</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIChar.cpp">
+      <Filter>CUI\Leaf\char</Filter>
+    </ClCompile>
+    <ClCompile Include="CUICharacterInfo.cpp">
+      <Filter>CUI\Component\CUICharacter\CUICharacterInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIItem.cpp">
+      <Filter>CUI\Component\CUIItem</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIInventory.cpp">
+      <Filter>CUI\Component\CUIInventory</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIChatLog.cpp">
+      <Filter>CUI\Component\CUICharacter\CUIChatLog</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIHandler.cpp">
+      <Filter>Handler\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIImage.cpp">
+      <Filter>CUI\Leaf\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIComponent.cpp">
+      <Filter>CUI\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>CField\CItem</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIInvenSlot.cpp">
+      <Filter>CUI\Component\CUIInventory\Slot</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIWindow.cpp">
+      <Filter>CUI\CUIWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="CNPC.cpp">
+      <Filter>CField\CNPC</Filter>
+    </ClCompile>
+    <ClCompile Include="CUI.cpp">
+      <Filter>CUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUINPC.cpp">
+      <Filter>CUI\Component\CUINPC</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerAttackObject.cpp">
+      <Filter>CField\CPlayerCharacter\CPlayerAttackObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CFieldObject.cpp">
+      <Filter>CField</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIItemInfo.cpp">
+      <Filter>CUI\CUIWindow\CUIItemInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="CUINPCTalk.cpp">
+      <Filter>CUI\CUIWindow\CUINPCTalk</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIInvenSlotBehaveList.cpp">
+      <Filter>CUI\Component\CUIInventory\SlotRightClickList</Filter>
+    </ClCompile>
+    <ClCompile Include="CIndexStage.cpp">
+      <Filter>Stage\IndexStage</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIIndexStage.cpp">
+      <Filter>CUI\Component\CUIIndexStage</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameStage.cpp">
+      <Filter>Stage\GameStage</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIGameStage.cpp">
+      <Filter>CUI\Component\CUIGameStage</Filter>
+    </ClCompile>
+    <ClCompile Include="CItemDataProvider.cpp">
+      <Filter>DataProvider\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteProvider.cpp">
+      <Filter>DataProvider\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="CFieldFactory.cpp">
+      <Filter>CField\CFieldFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIFieldInfo.cpp">
+      <Filter>CUI\Component\CUIFieldInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptParser.cpp">
+      <Filter>Utility\ScriptParser</Filter>
+    </ClCompile>
+    <ClCompile Include="CQuest.cpp">
+      <Filter>CField\CQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="StringData.cpp">
+      <Filter>DataProvider\String</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCTalkScriptData.cpp">
+      <Filter>DataProvider\NPCTalkScript</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestData.cpp">
+      <Filter>DataProvider\Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCData.cpp">
+      <Filter>DataProvider\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="CUINPCQuestStatus.cpp">
+      <Filter>CUI\Component\CUINPCQuestStatus</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundData.cpp">
+      <Filter>DataProvider\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundHandler.cpp">
+      <Filter>Handler\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIButton.cpp">
+      <Filter>CUI\CUIWindow\CUIbutton</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIQuestInfo.cpp">
+      <Filter>CUI\Component\CUIQuestInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="CUINoticeWindow.cpp">
+      <Filter>CUI\CUIWindow\CUINoticeWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="CPortal.cpp">
+      <Filter>CField\CPortal</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerDecorateEffect.cpp">
+      <Filter>CField\CPlayerCharacter\CPlayerDecorateEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeHandler.cpp">
+      <Filter>Time</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CWindow.h" />
+    <ClInclude Include="GameLoop.h" />
+    <ClInclude Include="TimeFragment.h">
+      <Filter>Time</Filter>
+    </ClInclude>
+    <ClInclude Include="TSingleton.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>DrawObject\Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>DrawObject\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteFactory.h">
+      <Filter>DrawObject\Sprite\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Handler\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerCharacter.h">
+      <Filter>CField\CPlayerCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>CField\CMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterFactory.h">
+      <Filter>CField\CMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="CField.h">
+      <Filter>CField</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackground.h">
+      <Filter>CField\CBackground</Filter>
+    </ClInclude>
+    <ClInclude Include="TextFileParser.h">
+      <Filter>Utility\TextParser</Filter>
+    </ClInclude>
+    <ClInclude Include="CArea.h">
+      <Filter>CField\CArea</Filter>
+    </ClInclude>
+    <ClInclude Include="CTile.h">
+      <Filter>CField\CTile</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionMap.h">
+      <Filter>Handler\Input\CActionMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CUI.h">
+      <Filter>CUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CHPGauge.h">
+      <Filter>CUI\Component\CUICharacter\CHPGauge</Filter>
+    </ClInclude>
+    <ClInclude Include="CEXPGauge.h">
+      <Filter>CUI\Component\CUICharacter\CEXPGauge</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIBackground.h">
+      <Filter>CUI\Component\CUIBackground</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIString.h">
+      <Filter>CUI\Component\CUIString</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIChar.h">
+      <Filter>CUI\Leaf\char</Filter>
+    </ClInclude>
+    <ClInclude Include="CUICharacterInfo.h">
+      <Filter>CUI\Component\CUICharacter\CUICharacterInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIItem.h">
+      <Filter>CUI\Component\CUIItem</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIInventory.h">
+      <Filter>CUI\Component\CUIInventory</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIChatLog.h">
+      <Filter>CUI\Component\CUICharacter\CUIChatLog</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIHandler.h">
+      <Filter>Handler\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIImage.h">
+      <Filter>CUI\Leaf\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIComponent.h">
+      <Filter>CUI\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>CField\CItem</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIInvenSlot.h">
+      <Filter>CUI\Component\CUIInventory\Slot</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIWindow.h">
+      <Filter>CUI\CUIWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="CNPC.h">
+      <Filter>CField\CNPC</Filter>
+    </ClInclude>
+    <ClInclude Include="CUINPC.h">
+      <Filter>CUI\Component\CUINPC</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerAttackObject.h">
+      <Filter>CField\CPlayerCharacter\CPlayerAttackObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIItemInfo.h">
+      <Filter>CUI\CUIWindow\CUIItemInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="CUINPCTalk.h">
+      <Filter>CUI\CUIWindow\CUINPCTalk</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIInvenSlotBehaveList.h">
+      <Filter>CUI\Component\CUIInventory\SlotRightClickList</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIIndexStage.h">
+      <Filter>CUI\Component\CUIIndexStage</Filter>
+    </ClInclude>
+    <ClInclude Include="CIndexStage.h">
+      <Filter>Stage\IndexStage</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameStage.h">
+      <Filter>Stage\GameStage</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIGameStage.h">
+      <Filter>CUI\Component\CUIGameStage</Filter>
+    </ClInclude>
+    <ClInclude Include="CItemDataProvider.h">
+      <Filter>DataProvider\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteProvider.h">
+      <Filter>DataProvider\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="CFieldFactory.h">
+      <Filter>CField\CFieldFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIFieldInfo.h">
+      <Filter>CUI\Component\CUIFieldInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptParser.h">
+      <Filter>Utility\ScriptParser</Filter>
+    </ClInclude>
+    <ClInclude Include="CQuest.h">
+      <Filter>CField\CQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="DataProvider.h">
+      <Filter>DataProvider</Filter>
+    </ClInclude>
+    <ClInclude Include="StringData.h">
+      <Filter>DataProvider\String</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCTalkScriptData.h">
+      <Filter>DataProvider\NPCTalkScript</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestData.h">
+      <Filter>DataProvider\Quest</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCData.h">
+      <Filter>DataProvider\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="CUINPCQuestStatus.h">
+      <Filter>CUI\Component\CUINPCQuestStatus</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>DataProvider</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundData.h">
+      <Filter>DataProvider\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundHandler.h">
+      <Filter>Handler\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIButton.h">
+      <Filter>CUI\CUIWindow\CUIbutton</Filter>
+    </ClInclude>
+    <ClInclude Include="CFieldObject.h">
+      <Filter>CField</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIQuestInfo.h">
+      <Filter>CUI\Component\CUIQuestInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="CUINoticeWindow.h">
+      <Filter>CUI\CUIWindow\CUINoticeWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="CPortal.h">
+      <Filter>CField\CPortal</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerDecorateEffect.h">
+      <Filter>CField\CPlayerCharacter\CPlayerDecorateEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeHandler.h">
+      <Filter>Time</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

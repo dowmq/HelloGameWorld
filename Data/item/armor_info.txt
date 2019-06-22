@@ -1,0 +1,12 @@
+// 아이템 규격 정보 // ItemType { sword, head, attack, body, torch, feet, consume, etc };
+// itemid, name, type, lvConstrain, grade, incAtt, incDfn, incSpeed
+// 이름은 영문만 된다.
+301 armorA 3 0 1 0 5 0
+302 armorb 3 5 1 0 10 0
+303 armorc 3 10 2 0 15 0
+304 armord 3 15 2 0 20 0
+305 armoe 3 20 3 0 25 0
+306 armorf 3 25 3 0 30 0
+307 armorg 3 30 4 0 35 0
+308 armorh 3 35 4 0 40 0
+309 armorl 3 40 5 0 45 0

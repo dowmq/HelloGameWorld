@@ -1,0 +1,71 @@
+/Sprite_Id file_path
+/UI 
+10000 Data\\Sprite\\UI\\index_stage_background.txt
+10001 Data\\Sprite\\UI\\index_stage_new_game.txt
+10002 Data\\Sprite\\UI\\index_stage_prev_game.txt
+10003 Data\\Sprite\\UI\\index_stage_exit.txt
+10004 Data\\Sprite\\UI\\EquipSlotBehaveList.txt
+10005 Data\\Sprite\\UI\\StoreSlotBehaveList.txt
+10006 Data\\Sprite\\UI\\UIBackground_black.txt
+10007 Data\\Sprite\\UI\\UIBackground_blue.txt
+10008 Data\\Sprite\\UI\\UIBackground_gray.txt
+10009 Data\\Sprite\\UI\\UIBackground_navy_gray.txt
+10010 Data\\Sprite\\UI\\HPEXPFrame.txt
+10011 Data\\Sprite\\UI\\HPPiece.txt
+10012 Data\\Sprite\\UI\\EXPPiece.txt
+10013 Data\\Sprite\\UI\\UIChar_0.txt
+10014 Data\\Sprite\\UI\\UIChar_a.txt
+10015 Data\\Sprite\\UI\\UIWindow_close.txt
+10016 Data\\Sprite\\UI\\invenslot\\attack.txt
+10017 Data\\Sprite\\UI\\invenslot\\body.txt
+10018 Data\\Sprite\\UI\\invenslot\\feet.txt
+10019 Data\\Sprite\\UI\\invenslot\\head.txt
+10020 Data\\Sprite\\UI\\invenslot\\ring.txt
+10021 Data\\Sprite\\UI\\invenslot\\store.txt
+10022 Data\\Sprite\\UI\\invenslot\\torch.txt
+10023 Data\\Sprite\\UI\\quest\\quest_can_start.txt
+10024 Data\\Sprite\\UI\\quest\\quest_proceed.txt
+10025 Data\\Sprite\\UI\\quest\\quest_can_complete.txt
+10026 Data\\Sprite\\UI\\btn_yes.txt
+10027 Data\\Sprite\\UI\\btn_no.txt
+10028 Data\\Sprite\\UI\\btn_ok.txt
+/Character 
+20000 Data\\Sprite\\Character\\attack_effect_l.txt
+20001 Data\\Sprite\\Character\\attack_effect_r.txt
+20002 Data\\Sprite\\Character\\attack_l.txt
+20003 Data\\Sprite\\Character\\attack_r.txt
+20004 Data\\Sprite\\Character\\damaged_l.txt
+20005 Data\\Sprite\\Character\\damaged_r.txt
+20006 Data\\Sprite\\Character\\die_l.txt
+20007 Data\\Sprite\\Character\\die_r.txt
+20008 Data\\Sprite\\Character\\fall_l.txt
+20009 Data\\Sprite\\Character\\fall_r.txt
+20010 Data\\Sprite\\Character\\jump_l.txt
+20011 Data\\Sprite\\Character\\jump_r.txt
+20012 Data\\Sprite\\Character\\run_l.txt
+20013 Data\\Sprite\\Character\\run_r.txt
+20014 Data\\Sprite\\Character\\stop_l.txt
+20015 Data\\Sprite\\Character\\stop_r.txt
+20016 Data\\Sprite\\Character\\walk_l.txt
+20017 Data\\Sprite\\Character\\walk_r.txt
+/20018 Data\\Sprite\\Character\\
+/NPC 
+30000 Data\\Sprite\\NPC\\codex_sprites.txt
+30001 Data\\Sprite\\NPC\\Conjurer.txt
+30002 Data\\Sprite\\NPC\\DungeonMaster.txt
+/Monster 
+40000 Data\\Sprite\\Monster\\Goblin\\stop_l.txt
+40001 Data\\Sprite\\Monster\\Goblin\\stop_r.txt
+40002 Data\\Sprite\\Monster\\Goblin\\walk_l.txt
+40003 Data\\Sprite\\Monster\\Goblin\\walk_r.txt
+40004 Data\\Sprite\\Monster\\Goblin\\die.txt
+/Tile 
+50000 Data\\Sprite\\Tile\\normal.txt
+50001 Data\\Sprite\\Tile\\wood_row.txt
+50002 Data\\Sprite\\Tile\\wood_column.txt
+/ETC 
+60000 Data\\Sprite\\ETC\\back_cave.txt
+60001 Data\\Sprite\\ETC\\sky.txt
+60002 Data\\Sprite\\ETC\\portal.txt
+60003 Data\\Sprite\\ETC\\back_castle.txt
+60004 Data\\Sprite\\ETC\\level_up.txt

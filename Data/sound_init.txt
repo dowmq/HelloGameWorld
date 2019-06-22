@@ -1,0 +1,60 @@
+Start
+	SoundID = 700001
+	SoundFile = MureungHill.mp3
+	DefaultVolume = 0.5
+	SoundMode = 2
+End
+Start
+	SoundID = 700002
+	SoundFile = CrimsonTower.mp3
+	DefaultVolume = 0.5
+	SoundMode = 2
+End
+Start
+	SoundID = 700003
+	SoundFile = MBtMouseClick.mp3
+	DefaultVolume = 0.5
+	SoundMode = 1
+End
+Start
+	SoundID = 700004
+	SoundFile = attack.mp3
+	DefaultVolume = 2.5
+	SoundMode = 1
+End
+Start
+	SoundID = 700005
+	SoundFile = Jump.mp3
+	DefaultVolume = 0.5
+	SoundMode = 1
+End
+Start
+	SoundID = 700006
+	SoundFile = PickUpItem.mp3
+	DefaultVolume = 1.5
+	SoundMode = 1
+End
+Start
+	SoundID = 700007
+	SoundFile = QuestClear.mp3
+	DefaultVolume = 3.0
+	SoundMode = 1
+End
+Start
+	SoundID = 700008
+	SoundFile = BtMouseClick.mp3
+	DefaultVolume = 3.0
+	SoundMode = 1
+End
+Start
+	SoundID = 700009
+	SoundFile = Damaged_goblin.mp3
+	DefaultVolume = 3.0
+	SoundMode = 1
+End
+Start
+	SoundID = 700010
+	SoundFile = AboveTheTreetops.mp3
+	DefaultVolume = 0.5
+	SoundMode = 2
+End

@@ -1,0 +1,21 @@
+Start
+	NPCID = 800001
+	Name = Codex
+	Explain = explain game key
+	ScriptID = 850001
+	SpriteID = 30000
+End
+Start
+	NPCID = 800002
+	Name = Conjurer
+	Explain = the sorcerer
+	ScriptID = 850002
+	SpriteID = 30001
+End
+Start
+	NPCID = 800003
+	Name = Dungeon Master
+	Explain = the game master
+	ScriptID = 850003
+	SpriteID = 30002
+End

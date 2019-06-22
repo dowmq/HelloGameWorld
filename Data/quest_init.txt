@@ -1,0 +1,26 @@
+Start
+	QuestID = 900000
+	QuestName = Conversation with DungeonMaster
+	QuestType = 0
+	QuestStartConditionQuestID = 0
+	QuestStartNPCID = 800002
+	QuestStartScriptID = 860002
+	QuestEndNPCID = 800003
+	QuestEndScriptID = 860003
+	QuestClearEXPReward = 50
+	QuestClearITEMReward = 208
+End
+Start
+	QuestID = 900001
+	QuestName = goblin hunt
+	QuestType = 1
+		QuestMonsterID = 900001
+		QuestHuntMonsterNumber = 5
+	QuestStartConditionQuestID = 900000
+	QuestStartNPCID = 800002
+	QuestStartScriptID = 860004
+	QuestEndNPCID = 800003
+	QuestEndScriptID = 860003
+	QuestClearEXPReward = 300
+	QuestClearITEMReward = 103
+End

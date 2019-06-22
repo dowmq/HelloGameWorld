@@ -1,0 +1,5 @@
+walking_left = Data\\Sprite\\monster\\walk_l.txt
+walking_right = Data\\Sprite\\monster\\walk_r.txt
+stop_left = Data\\Sprite\\monster\\stop_l.txt
+stop_right = Data\\Sprite\\monster\\stop_r.txt
+die = Data\\Sprite\\monster\\die.txt

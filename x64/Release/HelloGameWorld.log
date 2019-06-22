@@ -1,0 +1,57 @@
+﻿  CField.cpp
+  CFieldFactory.cpp
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(41): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(44): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(83): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(89): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(98): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(106): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldfactory.cpp(106): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CFieldObject.cpp
+d:\mystudy\hellogameworld\hellogameworld\cfieldobject.cpp(91): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cfieldobject.cpp(96): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CGameStage.cpp
+  CIndexStage.cpp
+  CMonster.cpp
+d:\mystudy\hellogameworld\hellogameworld\cmonster.cpp(86): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cmonster.cpp(90): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cmonster.cpp(140): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cmonster.cpp(148): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CNPC.cpp
+  CPlayerAttackObject.cpp
+d:\mystudy\hellogameworld\hellogameworld\cplayerattackobject.cpp(82): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cplayerattackobject.cpp(86): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPlayerCharacter.cpp
+d:\mystudy\hellogameworld\hellogameworld\cplayercharacter.cpp(124): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cplayercharacter.cpp(427): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cplayercharacter.cpp(444): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mystudy\hellogameworld\hellogameworld\cplayercharacter.cpp(515): warning C4244: '초기화 중': '_Ty'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+d:\mystudy\hellogameworld\hellogameworld\cplayercharacter.cpp(516): warning C4244: '-=': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+  CPortal.cpp
+  CQuest.cpp
+d:\mystudy\hellogameworld\hellogameworld\cquest.cpp(130): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CUIFieldInfo.cpp
+  CUIGameStage.cpp
+d:\mystudy\hellogameworld\hellogameworld\cuigamestage.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CUINPC.cpp
+  CUINPCQuestStatus.cpp
+  CUINPCTalk.cpp
+  GameLoop.cpp
+  NPCData.cpp
+  main.cpp
+  코드를 생성하고 있습니다.
+  2 of 5943 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  HelloGameWorld.vcxproj -> D:\MyStudy\HelloGameWorld\x64\Release\HelloGameWorld.exe

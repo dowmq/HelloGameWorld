@@ -1,0 +1,7 @@
+// 첫번째 라인은 (파일명, is_loop_sprite, life_time, image_change_time)
+// 두 번째 라인은 left, top, width, height 임
+Data\\Image\\npc2.bmp true 5000 0.5
+0 0 62 40
+63 0 62 40
+126 0 62 40
+191 0 62 40

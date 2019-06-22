@@ -1,0 +1,25 @@
+item_test = walking_left = Data\\item\\item_test_l.txt
+
+ring_sprites = Data\\item\\ring_sprites.txt
+ring_info = Data\\item\\ring_info.txt
+ring_item_count = 8
+
+head_sprites = Data\\item\\head_sprites.txt
+head_info = Data\\item\\head_info.txt
+head_item_count = 6
+
+weapon_sprites = Data\\item\\weapon_sprites.txt
+weapon_info = Data\\item\\weapon_info.txt
+weapon_item_count = 8
+
+armor_sprites = Data\\item\\armor_sprites.txt
+armor_info = Data\\item\\armor_info.txt
+armor_item_count = 9
+
+torch_sprites = Data\\item\\torch_sprites.txt
+torch_info = Data\\item\\torch_info.txt
+torch_item_count = 3
+
+feet_sprites = Data\\item\\feet_sprites.txt
+feet_info = Data\\item\\feet_info.txt
+feet_item_count = 10

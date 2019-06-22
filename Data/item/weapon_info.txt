@@ -1,0 +1,11 @@
+// 아이템 규격 정보 // ItemType { sword, head, attack, body, torch, feet, consume, etc };
+// itemid, name, type, lvConstrain, grade, incAtt, incDfn, incSpeed
+// 이름은 영문만 된다.
+201 swordA 2 0 1 0 0 0
+202 swordB 2 10 1 55 0 0
+203 swordC 2 20 2 65 0 0
+204 swordD 2 30 2 85 0 0
+205 swordE 2 40 3 105 0 0
+206 swordF 2 50 3 125 0 0
+207 swordG 2 60 4 150 0 0
+208 swordH 2 70 5 200 0 0

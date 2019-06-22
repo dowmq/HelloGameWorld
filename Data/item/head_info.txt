@@ -1,0 +1,9 @@
+// 아이템 규격 정보 // ItemType { ring, head, attack, body, torch, feet, consume, etc };
+// itemid, name, type, lvConstrain, grade, incAtt, incDfn, incSpeed
+// 이름은 영문만 된다.
+101 hatA 1 0 0 1 1 0
+102 hatB 1 10 1 10 10 0
+103 hatC 1 20 2 20 20 0
+104 hatD 1 30 3 30 30 0
+105 hatE 1 40 4 40 40 0
+106 hatF 1 40 4 40 40 0

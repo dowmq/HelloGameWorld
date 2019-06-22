@@ -1,0 +1,11 @@
+// 아이템 규격 정보 // ItemType { ring, head, attack, body, torch, feet, consume, etc };
+// itemid, name, type, lvConstrain, grade, incAtt, incDfn, incSpeed
+// 이름은 영문만 된다.
+1 ringA 0 0 1 0 0 1
+2 ringB 0 10 1 1 1 2
+3 ringC 0 20 2 2 2 3
+4 ringD 0 30 2 3 3 4
+5 ringE 0 40 3 4 4 5
+6 ringF 0 50 3 5 5 6
+7 ringG 0 60 4 6 6 7
+8 ringH 0 70 5 7 7 8

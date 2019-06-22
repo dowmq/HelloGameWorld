@@ -1,0 +1,4 @@
+// 첫번째 라인 - 파일명
+// 두 번째 라인 - x, y, width, height, 다음x 까지의 거리(간격)
+Data\\Image\\torch.bmp
+0 2 17 24 6

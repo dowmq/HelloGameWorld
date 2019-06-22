@@ -1,0 +1,4 @@
+//첫번째 라인은 (파일명, bLoop fLifeTime, fSpeed, fDeltaTime)
+//Data\\Image\\bg.bmp true 5000 100.0
+Data\\Image\\back_castle.bmp true 5000 100.0
+0 0 800 600

@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FrameCounter" Collapsed="true">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JEAAABQAAIEAEAACkAAAAAAAAAAAAAAAEhQCABAAAAE=</HashCode>
+      <FileName>FrameCounter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeFragment" Collapsed="true">
+    <Position X="66" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TimeFragment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="26" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAgAAAAAAAAQAAgAAAAAAA=</HashCode>
+      <FileName>TSingleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringParseException" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFileParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenFailException" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>TextFileParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextFileParser" Collapsed="true">
+    <Position X="64.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUIiAAAAAEABAAABEABARAAAAABAAQQAAAAAAAAgAQA=</HashCode>
+      <FileName>TextFileParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScriptParser" Collapsed="true">
+    <Position X="66" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ScriptParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="60.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAARAEACAABgIJYACAAACgAAAAAAAwIEAAEBAAABM=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteFactory" Collapsed="true">
+    <Position X="62.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpriteFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBitmap" Collapsed="true">
+    <Position X="62.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAIAAACAAAhAASAAEAAEAAAAIAABEQAAA=</HashCode>
+      <FileName>Bitmap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStage" Collapsed="true">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADACABAAAAE=</HashCode>
+      <FileName>CStage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIndexStage" Collapsed="true">
+    <Position X="26" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAEAAAAAAAAAAABAAAAAAAIBACABAAgAU=</HashCode>
+      <FileName>CIndexStage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameStage" Collapsed="true">
+    <Position X="23" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAgAAAAACAABAAIAChAAAAAAABEBAiABAAAQM=</HashCode>
+      <FileName>CGameStage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputHandler" Collapsed="true">
+    <Position X="39.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAgQAAAAAAQIAAACIAEACAAAQIAIAZACABBBIAM=</HashCode>
+      <FileName>InputHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActionMap" Collapsed="true">
+    <Position X="60.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAIAAAAAAAAEAAAAAACEAAAABAAgBAAAAAABAAA=</HashCode>
+      <FileName>ActionMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIHandler" Collapsed="true">
+    <Position X="30" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAABAAAIAAABAAAAgBABgEAABAGQDIAAAE=</HashCode>
+      <FileName>CUIHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundHandler" Collapsed="true">
+    <Position X="49.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAQgAAAAAAQAAAAIAAAAAAoAACABAAAAE=</HashCode>
+      <FileName>SoundHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CField" Collapsed="true">
+    <Position X="64.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECGAAIAgAQAGQAAEQyCAgBAMIkCIAGBAAJACIDoKJAM=</HashCode>
+      <FileName>CField.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFieldObject" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAATgBgAAQBAEAAACAYABQAAAAAAAAEhgCEFAAAAE=</HashCode>
+      <FileName>CFieldObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerCharacter" Collapsed="true">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARKECAA1QAAABIEACEIwcAgigEBwAVAABBDCARnCABE=</HashCode>
+      <FileName>CPlayerCharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerDecorateEffect" Collapsed="true">
+    <Position X="60.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAQAAIAAAAAAEAAAAAAABABACCBAAAAE=</HashCode>
+      <FileName>CPlayerDecorateEffect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerAttackObject" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAQAAAIAAkAAAAAAAAAAAEAQAACAAABACARAAQAE=</HashCode>
+      <FileName>CPlayerAttackObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAARAABABgBAAAAAYABAkAAAACAIAlAiCRqAAAE=</HashCode>
+      <FileName>CMonster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterFactory" Collapsed="true">
+    <Position X="64.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonsterFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBackground" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAgAAAAAAAQAAAAABAAAAAAABACABAAAAE=</HashCode>
+      <FileName>CBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTile" Collapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAEABAAAABAAEAAAAABAAAAAAABACABAAABE=</HashCode>
+      <FileName>CTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItem" Collapsed="true">
+    <Position X="66" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAAAEIAAAABAAAAAEAAFAAEABAAgAQAAAhQ=</HashCode>
+      <FileName>CItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNPC" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACARAAAQAQAAEAAQYATAABCABIAAEBACAFAgAAE=</HashCode>
+      <FileName>CNPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFieldFactory" Collapsed="true">
+    <Position X="37" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAIAACAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CFieldFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQuest" Collapsed="true">
+    <Position X="62.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAAAASAAAEAAMACFCAAAAAARARAAAECIkAEAI=</HashCode>
+      <FileName>CQuest.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPortal" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAACABAAAAAAAAAAAAAAgAIQAAAIABADACABCAAAE=</HashCode>
+      <FileName>CPortal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUI" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIAIAAgAwAQA4AAAhAQAQAAAAAABADAFAAAAU=</HashCode>
+      <FileName>CUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIComponent" Collapsed="true">
+    <Position X="42.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAIAAAgAAAAAAAAMABhCABAAAAE=</HashCode>
+      <FileName>CUIComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIString" Collapsed="true">
+    <Position X="29" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAgAAA=</HashCode>
+      <FileName>CUIString.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUICharacterInfo" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAgAAAQgAAAAAAABAAAABACABAAAAE=</HashCode>
+      <FileName>CUICharacterInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHPGauge" Collapsed="true">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAA=</HashCode>
+      <FileName>CHPGauge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHPPiece" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAgAEAAAAAAAABACABAAABE=</HashCode>
+      <FileName>CHPGauge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEXPGauge" Collapsed="true">
+    <Position X="38" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABABAAIAAAAAA=</HashCode>
+      <FileName>CEXPGauge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEXPPiece" Collapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAABACABBAABE=</HashCode>
+      <FileName>CEXPGauge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIChatLog" Collapsed="true">
+    <Position X="49.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABABAAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CUIChatLog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIItem" Collapsed="true">
+    <Position X="51.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAA=</HashCode>
+      <FileName>CUIItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIInventory" Collapsed="true">
+    <Position X="56" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAABAEgAACAAAABAAACAAAAAAAACAAAABAAAAAg=</HashCode>
+      <FileName>CUIInventory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIInvenSlot" Collapsed="true">
+    <Position X="31.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAAAgAACEAAgQAAAAAAAAAAAAEABAAABABAIA=</HashCode>
+      <FileName>CUIInvenSlot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIInvenSlotBehaveList" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAABAAAAAAAgAAABAAAQAUAAAAAAAABACABAAAAE=</HashCode>
+      <FileName>CUIInvenSlotBehaveList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUINPC" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAAAIAAAAAAAIAAIgAABAAAAIAAJACABAAAAE=</HashCode>
+      <FileName>CUINPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIIndexStage" Collapsed="true">
+    <Position X="35.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAQAAAAAAACIIAAAAAAAAAAAA=</HashCode>
+      <FileName>CUIIndexStage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIGameStage" Collapsed="true">
+    <Position X="40.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAACABAgBQCABAAAAE=</HashCode>
+      <FileName>CUIGameStage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIFieldInfo" Collapsed="true">
+    <Position X="22.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAABAAEAAAAAAACAAAAAAAAAAAABACABAAAAE=</HashCode>
+      <FileName>CUIFieldInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIBackground" Collapsed="true">
+    <Position X="53.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgEAQAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CUIBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUINPCQuestStatus" Collapsed="true">
+    <Position X="58.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAgIABAgAAAQAAAgAAAAAAABAEBASIBAAAAE=</HashCode>
+      <FileName>CUINPCQuestStatus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIQuestInfo" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAIAAAAAgAIAAAAABACBBiAACE=</HashCode>
+      <FileName>CUIQuestInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIChar" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAAAAAAAAAAAAAAAAgAEAAAAAAEABACABAAAAE=</HashCode>
+      <FileName>CUIChar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIImage" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAEAAAAAAAAAAAABQBAAAAABAiABAAAIU=</HashCode>
+      <FileName>CUIImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIWindow" Collapsed="true">
+    <Position X="44.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAgABhAACAAAAgAEAQAAgKACFAGAjgACAU=</HashCode>
+      <FileName>CUIWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIItemInfo" Collapsed="true">
+    <Position X="42.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAAQAEAAAAAAAAAAAAAAAAgIAAFAEABAABAA=</HashCode>
+      <FileName>CUIItemInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUINPCTalk" Collapsed="true">
+    <Position X="44.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAgAAAAAgAIAAAABAAAAABAgAAAAABABAAAEA=</HashCode>
+      <FileName>CUINPCTalk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIButton" Collapsed="true">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIMAAAAAAAAAgAEAABAAFAABECABAAAAE=</HashCode>
+      <FileName>CUIButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUINoticeWindow" Collapsed="true">
+    <Position X="47" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAABAAAAAAAgAAAAAAAAQEAAAAgAAAAAAAAAAQAA=</HashCode>
+      <FileName>CUINoticeWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAACABIAAAA=</HashCode>
+      <FileName>Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataProvider&lt;Data&gt;" Collapsed="true">
+    <Position X="25.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAQAAAAAAAABAAAIQAAAACAAAAAAAAAA=</HashCode>
+      <FileName>DataProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemDataProvider" Collapsed="true">
+    <Position X="32.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAgAAgAAAEAAIAAAAAAABAAAAAA=</HashCode>
+      <FileName>CItemDataProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteProvider" Collapsed="true">
+    <Position X="34.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQABAIEQAAAAQgAAAAAABAIAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SpriteProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCData" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAABBAAAAAAIAAAAAQAEAAggAAAAAAAAABBJABAA=</HashCode>
+      <FileName>NPCData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCTalkScriptData" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAABAAAAAAAQAAIAAAAAAAgAABAAAAAAABIAACA=</HashCode>
+      <FileName>NPCTalkScriptData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestData" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAQKgBAAAAAATEAAAAAAAAAAoAAAAAAAAAAJIEAAA=</HashCode>
+      <FileName>QuestData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringData" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABBAAAAAAAAAAAABAAAABgAACAAAAAAABIAAQA=</HashCode>
+      <FileName>StringData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundData" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAIAAAAAAAYAAAAAAgAAAAAKCAgABIAAAg=</HashCode>
+      <FileName>SoundData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWindow" Collapsed="true">
+    <Position X="23.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACIAAAwBAAABAAAAAAAAAQQAAoAAABAggAQ=</HashCode>
+      <FileName>CWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLoop" Collapsed="true">
+    <Position X="27.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACgAAAAAUAAAAEAEAAAAEAAABACAFAGQAM=</HashCode>
+      <FileName>GameLoop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="fPoint" Collapsed="true">
+    <Position X="62.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>CArea.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CArea" Collapsed="true">
+    <Position X="60.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgBAAAgUFgIAgAEAEAgBAAAABBQIIAJCEAgQAAA=</HashCode>
+      <FileName>CArea.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="key_state" Collapsed="true">
+    <Position X="64.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgAAAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputHandler.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BackgroundColor" Collapsed="true">
+    <Position X="60.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>CUIBackground.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CUICharColor" Collapsed="true">
+    <Position X="62.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CUIChar.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

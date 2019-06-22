@@ -1,0 +1,28 @@
+Start
+	ScriptID = 850001
+	Conversation = hello friend this is my first game\operating is very simple\direction keys are direction keys\alt key is jump key\ctl key is attack key\z key is pick item key\enjoy the game
+End
+Start
+	ScriptID = 850002
+	Conversation = magic magic m...a...g...i...c...\m a g i c p o w e r
+End
+Start
+	ScriptID = 850003
+	Conversation = hello adventurer!!! i'm Dungeon-Master.
+End
+Start
+	ScriptID = 860002
+	Conversation = hello adventurer!! i am sorcerer\anyway go DungeonMaster. he wiil give you the item.
+End
+Start
+	ScriptID = 860003
+	Conversation = you complete my request.\so i will give you the item and exp\enjoy this world.
+End
+Start
+	ScriptID = 860004
+	Conversation = The Dungeon-Master want you to kill goblins.\do you accept the request the kill the goblins??\if you do that,\the Dungeon-Master will give you a splendid reward.
+End
+Start
+	ScriptID = 860005
+	Conversation = you die.\if you want to back to start map\click ok button.
+End

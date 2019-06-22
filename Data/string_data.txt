@@ -1,0 +1,244 @@
+Start
+	StringID = 0
+	StringValue = Data\\npc_init.txt
+End
+Start
+	StringID = 1
+	StringValue = Data\\Sprite_init.txt
+End
+Start
+	StringID = 2
+	StringValue = Data\\item_init.txt
+End
+Start
+	StringID = 3
+	StringValue =  Data\\npc_talk_init.txt
+End
+Start
+	StringID = 4
+	StringValue = Data\\quest_init.txt
+End
+Start
+	StringID = 5
+	StringValue = Data\\sound_init.txt
+End
+Start
+	StringID = 6
+	StringValue = 
+End
+Start
+	StringID = 7
+	StringValue = HelloGameWorld
+End
+Start
+	StringID = 8
+	StringValue = 
+End
+Start
+	StringID = 9
+	StringValue = 
+End
+Start
+	StringID = 10
+	StringValue = NPCID
+End
+Start
+	StringID = 11
+	StringValue = Name
+End
+Start
+	StringID = 12
+	StringValue = Explain
+End
+Start
+	StringID = 13
+	StringValue = ScriptID
+End
+Start
+	StringID = 14
+	StringValue = SpriteID
+End
+Start
+	StringID = 15
+	StringValue = Conversation
+End
+Start
+	StringID = 16
+	StringValue = QuestID
+End
+Start
+	StringID = 17
+	StringValue = QuestName
+End
+Start
+	StringID = 18
+	StringValue = QuestType
+End
+Start
+	StringID = 19
+	StringValue = QuestMonsterID
+End
+Start
+	StringID = 20
+	StringValue = QuestHuntMonsterNumber
+End
+Start
+	StringID = 21
+	StringValue = QuestStartConditionQuestID
+End
+Start
+	StringID = 22
+	StringValue = QuestStartNPCID
+End
+Start
+	StringID = 23
+	StringValue = QuestStartScriptID
+End
+Start
+	StringID = 24
+	StringValue = QuestEndNPCID
+End
+Start
+	StringID = 25
+	StringValue = QuestEndScriptID
+End
+Start
+	StringID = 26
+	StringValue = QuestClearEXPReward
+End
+Start
+	StringID = 27
+	StringValue = QuestClearITEMReward
+End
+Start
+	StringID = 28
+	StringValue = field name
+End
+Start
+	StringID = 29
+	StringValue = level of difficulty
+End
+Start
+	StringID = 30
+	StringValue = 
+End
+Start
+	StringID = 31
+	StringValue = 
+End
+Start
+	StringID = 32
+	StringValue = 
+End
+Start
+	StringID = 33
+	StringValue = monster has damaged %d.
+End
+Start
+	StringID = 34
+	StringValue = you gain exp %d.
+End
+Start
+	StringID = 35
+	StringValue = -congratulation- Your level has risen.
+End
+Start
+	StringID = 36
+	StringValue = 
+End
+Start
+	StringID = 37
+	StringValue = 
+End
+Start
+	StringID = 38
+	StringValue = talk with %s .
+End
+Start
+	StringID = 39
+	StringValue = Kill %d monster.
+End
+Start
+	StringID = 40
+	StringValue = you can complete quest.\talk with %s.
+End
+Start
+	StringID = 41
+	StringValue = The quest has been completed.
+End
+Start
+	StringID = 42
+	StringValue = ongoing quest
+End
+Start
+	StringID = 43
+	StringValue = You complete the quest so gain %d exp.
+End
+Start
+	StringID = 44
+	StringValue = -quest- you gain Item *%s*
+End
+Start
+	StringID = 45
+	StringValue = 
+End
+Start
+	StringID = 46
+	StringValue = 
+End
+Start
+	StringID = 47
+	StringValue = 
+End
+Start
+	StringID = 48
+	StringValue = Data\\Sound\\%s
+End
+Start
+	StringID = 49
+	StringValue = SoundID
+End
+Start
+	StringID = 50
+	StringValue = SoundFile
+End
+Start
+	StringID = 51
+	StringValue = DefaultVolume
+End
+Start
+	StringID = 52
+	StringValue = SoundMode
+End
+Start
+	StringID = 53
+	StringValue = 
+End
+Start
+	StringID = 54
+	StringValue = start map
+End
+Start
+	StringID = 55
+	StringValue = easy
+End
+Start
+	StringID = 56
+	StringValue = the goblin castle
+End
+Start
+	StringID = 57
+	StringValue = 
+End
+Start
+	StringID = 58
+	StringValue = 
+End
+Start
+	StringID = 59
+	StringValue = 
+End
+Start
+	StringID = 60
+	StringValue = notice
+End

@@ -1,0 +1,8 @@
+// 아이템 규격 정보 // ItemType { sword, head, attack, body, torch, feet, consume, etc };
+// itemid, name, type, lvConstrain, grade, incAtt, incDfn, incSpeed
+// 이름은 영문만 된다.
+501 feetA 5 0 1 0 5 5
+502 feetB 5 10 1 0 10 10
+503 feetC 5 20 2 0 15 15
+504 feetD 5 30 3 0 20 20
+505 feetE 5 40 4 0 25 25

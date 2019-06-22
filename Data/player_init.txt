@@ -1,0 +1,16 @@
+walking_left = Data\\Sprite\\character\\walk_l.txt
+walking_right = Data\\Sprite\\character\\walk_r.txt
+running_left = Data\\Sprite\\character\\run_l.txt
+running_right = Data\\Sprite\\character\\run_r.txt
+attack_left = Data\\Sprite\\character\\attack_l.txt
+attack_right = Data\\Sprite\\character\\attack_r.txt
+jump_left = Data\\Sprite\\character\\jump_l.txt
+jump_right = Data\\Sprite\\character\\jump_r.txt
+stop_left = Data\\Sprite\\character\\stop_l.txt
+stop_right = Data\\Sprite\\character\\stop_r.txt
+damaged_left = Data\\Sprite\\character\\damaged_l.txt
+damaged_right =Data\\Sprite\\character\\damaged_r.txt
+die_left = Data\\Sprite\\character\\die_l.txt
+die_right = Data\\Sprite\\character\\die_r.txt
+fall_left = Data\\Sprite\\character\\fall_l.txt
+fall_right = Data\\Sprite\\character\\fall_r.txt

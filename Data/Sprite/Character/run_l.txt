@@ -1,0 +1,9 @@
+// 첫번째 라인은 (파일명, is_loop_sprite, life_time, image_change_time)
+// 두 번째 라인은 left, top, width, height 임
+Data\\Image\\75358.bmp true 5000 0.1
+5 481 41 46
+55 483 44 46
+105 481 34 46
+151 481 49 46
+200 483 31 46
+248 481 35 46
