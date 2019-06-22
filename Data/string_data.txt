@@ -120,7 +120,7 @@ Start
 End
 Start
 	StringID = 30
-	StringValue = 
+	StringValue = quest talk
 End
 Start
 	StringID = 31
